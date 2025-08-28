@@ -571,7 +571,9 @@ svg:not([fill]) {
   width: 500px;
   height: 500px;
 }
-
+.chart-kolonne h2 {
+  margin-bottom: 12rem; 
+}
 .main-grid {
   min-height: 100vh;
 }
@@ -728,7 +730,7 @@ svg:not([fill]) {
       background-color: var(--color-primary-light);
     }
 
-.agenda-item__add {}
+/* .agenda-item__add {} */
 
 /* Modal styles using :target */
 .modal {
@@ -968,7 +970,7 @@ svg:not([fill]) {
   .page-actions {
     width: 100%;
     justify-content: flex-start;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
   }
 }
 
