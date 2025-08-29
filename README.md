@@ -38,5 +38,4 @@ A simple, modern Single Page Application (SPA) for meeting and project managemen
 - `style.css` – Custom styles
 - `img/` – SVG icons and images
 
-## License
-MIT
+
